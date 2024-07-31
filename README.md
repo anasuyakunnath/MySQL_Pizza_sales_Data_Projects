@@ -1,5 +1,6 @@
 # MySql_Data_Projects
 This repository contains a robust MySQL project designed to demonstrate various database management, analysis techniques and queries.
+Tools Used: MySQL and Power BI
 
 ## Pizza Sales Analysis
 The analysis of the pizza sales is done using MySQL and Power BI Interactive Dashboard by importing data from MySQL database to Power BI.
